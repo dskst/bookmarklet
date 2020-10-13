@@ -20,12 +20,12 @@ javascript:(
                                 modal.click();
                                 clearInterval(modal_interval_id);
                             }
-                        }, 500);
+                        }, 1000);
                     }
                 }, 500);
             } else {
                 clearInterval(arrow_interval_id);
             }
-        }, 500);
+        }, 2500);
     }
 )();
