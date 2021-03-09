@@ -26,6 +26,6 @@ javascript:(
             } else {
                 clearInterval(arrow_interval_id);
             }
-        }, 3000);
+        }, 4000);
     }
 )();
